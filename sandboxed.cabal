@@ -20,6 +20,8 @@ executable sandboxed
   -- other-modules:       
   -- other-extensions:    
   build-depends:       base >=4.6 && <4.10,
-                       free
+                       free,
+                       directory,
+                       filepath
   hs-source-dirs:      src
   default-language:    Haskell2010

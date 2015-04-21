@@ -1,2 +1,4 @@
 dist/
 *.sublime-*
+.cabal-sandbox
+cabal.sandbox.config
